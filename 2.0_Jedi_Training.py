@@ -1,4 +1,5 @@
 '''
+2.0 Jedi Training (14pts)  Name:________________
 Sign your name:________________
 
 1.) How do you enter a single line comment in a program? Give an example. (1pt)
